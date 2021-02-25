@@ -10,6 +10,7 @@ Data Compression
 
 Data Compression can be defined as the coding of data to minimize its representation. The compression process is called lossless if the original one can be exactly reconstructed from the compressed copy; otherwise it is called lossy. The theoretical background of the data compression techniques is strong and well established. There is a limit to the amount of compression we can gain from a digital file and that this limit is the Shannon entropy. The highest the entropy is, the lowest the possibility of compressing data shall be.
 Data compression is today essential for digital communication. Without data compression we would not have digital televisions, smart-phones, satellite communications, Internet, etc.
+
 ALGORITHM 
 
 1.start
